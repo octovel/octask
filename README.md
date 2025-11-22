@@ -1,2 +1,2 @@
-# TaskHuhApp
-This is the web and mobile app for TaskHuh
+# Octask
+This is the monorepo for Octask, it contains applications for the site, native apps, and the server app.

@@ -1,0 +1,11 @@
+[project]
+name = "octask-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi[standard]>=0.121.3",
+    "pydantic>=2.12.4",
+    "uvicorn[standard]>=0.38.0",
+]
