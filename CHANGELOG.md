@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.1] - 2025-11-27
+
+### Added
+
+- Added Flet framework and basic Flet ui and app setup
+- Added basic breakpoint function and on_resize event function to help implement responsive ui
+- Added basic command drawer starter design
+
 ## [0.1.0] - 2025-11-22
 
 ### Added
